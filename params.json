@@ -1,6 +1,6 @@
 {
   "name": "Index",
   "tagline": "项目索引",
-  "body": "# 项目索引\r\n-------------\r\n### 模板\r\n- [初始App模板](https://github.com/binh0035/TemplateMain)（含ActColl、SplashActivity、SingleToast）\r\n- Gradle\r\n\r\n\r\n### 工具demo\r\n- OkHttp\r\n\r\n### 模仿\r\n- [模仿微信](https://github.com/binh0035/BinhWeiXin)\r\n\r\n### 攻略",
+  "body": "# 项目索引\r\n-------------\r\n### 模板\r\n- [初始App模板_未完工](https://github.com/binh0035/TemplateMain)（含ActColl、SplashActivity、SingleToast）\r\n- [Activity自定义模板_未完工](http://blog.csdn.net/binh0035/article/details/53375366)\r\n- Gradle\r\n\r\n### 工具demo\r\n- OkHttp\r\n\r\n### 模仿\r\n- [模仿微信](https://github.com/binh0035/BinhWeiXin)\r\n\r\n### 攻略",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
